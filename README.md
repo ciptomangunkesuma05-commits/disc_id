@@ -51,3 +51,4 @@ DISC merupakan model perilaku yang membantu setiap manusia memahami“mengapa se
 + email (cahyadsn@gmail.com)
 + demo site    : (http://psycho.cahyadsn.com/disc_id) 
 + source code  : (https://github.com/cahyadsn/disc_id)
++ instalgram ( www.instalgram.com ) 
